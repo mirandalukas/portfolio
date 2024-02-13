@@ -8,8 +8,17 @@ Welcome to my portfolio repository! I'm Lukas, an aspiring software developer pa
 
 #### Technologies Used:
 
-- **HTML:** Used for structuring the content of the website.
-- **CSS:** Applied styles to enhance the visual presentation and layout.
+- HTML
+- CSS
+- JavaScript
+
+### Project 2: Divicious Restaurant & Coffee Shop
+
+#### Technologies Used:
+
+- HTML
+- CSS 
+- JavaScript
 
 ##You will be able to view the website from this repository.
 
