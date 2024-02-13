@@ -33,7 +33,7 @@ Welcome to my portfolio repository! I'm Lukas, an aspiring software developer pa
   - HTML, CSS, React
 
 - **Database Systems:**
-  - Very basic MySQL, MongoDB.]
+  - Very basic MySQL, MongoDB.
 
 - **Other Skills:**
   - Problem-solver, teamworker
